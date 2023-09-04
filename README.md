@@ -1,4 +1,4 @@
-# DSA-Analysis-and-Design
+# ABCU Course Planner using Binary Search Tree
 - What was the problem you were solving in the projects for this course?
   this course was asking that we create a program that takes in a list of courses and stores it in the proper data structure for printing in an aplhabetical order.
 - How did you approach the problem? Consider why data structures are important to understand.
